@@ -6,6 +6,7 @@ from typing import Dict, Optional
 import re
 import os
 from dotenv import load_dotenv
+import mdtopdf
 
 load_dotenv()
 api=os.getenv("GITHUB_TOKEN")
@@ -100,6 +101,7 @@ def main():
         save_to_markdown(summaries, filename="report.md")
     else:
         print("No summaries were generated successfully")
+    mdtopdf.convert_markdown_to_pdf()
 
 if __name__ == "__main__":
     main()

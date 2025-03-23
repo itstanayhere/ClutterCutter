@@ -3,6 +3,9 @@
 ## Overview
 **Clutter Cutter** is an automated financial news summarizer designed exclusively for **The Economic Times'** website. It scrapes and condenses lengthy financial articles, providing traders and brokers with a concise **TL;DR** of important market news. The tool generates structured reports in PDF format for quick insights.
 
+## Limitations 🛑🛑
+Can only run twice every 24 hours
+
 ## Features 🚀
 - **Automated Web Scraping**: Extracts the latest financial news from The Economic Times.
 - **News Summarization**: Condenses lengthy articles into key takeaways.

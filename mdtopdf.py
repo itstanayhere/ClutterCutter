@@ -4,7 +4,7 @@ from datetime import datetime
 from xhtml2pdf import pisa
 
 # Hardcoded input and output paths
-input_path = 'C:/AutoReport/report.md'
+input_path = 'PATH_TO_report.md'
 output_path = 'C:/AutoReport/report.pdf'
 
 def markdown_to_html(markdown_content):

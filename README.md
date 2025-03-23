@@ -25,13 +25,13 @@
 ## Usage 🏃‍♂️
 Run the main script to start scraping and summarization:
 ```sh
-python getdata.py
+python newssummariser.py
 ```
 The generated report will be available as `report.pdf`.
 
 ## Contributions & Future Improvements 🚧
-- Improve summarization accuracy.
-- Optimize performance for faster scraping.
+- Integration of infographic content straight from the stock market
+- Additional information about the top five gainers and losers each day
 
 ## Disclaimer ⚠️
 This tool is intended for **personal use** and is designed specifically for The Economic Times' website. Please review the website's terms of service before extensive usage.

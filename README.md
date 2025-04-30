@@ -1,9 +1,14 @@
+# Update (29/04/2025) 🔁
+It seems the Economic Times website has added scraping detection, therefore the code may not function as intended.
+
+---
+
 # Clutter Cutter 📰📊
 
 ## Overview
 **Clutter Cutter** is an automated financial news summarizer designed exclusively for **The Economic Times'** website. It scrapes and condenses lengthy financial articles, providing traders and brokers with a concise **TL;DR** of important market news. The tool generates structured reports in PDF format for quick insights.
 
-## Limitations 🛑🛑
+## Limitations 🛑
 Can only run twice every 24 hours
 
 ## Features 🚀
